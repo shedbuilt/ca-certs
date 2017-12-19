@@ -1,5 +1,6 @@
 NAME=ca-certs
 VERSION=20170514
 REVISION=1
-SRC=make-ca-20170514.tar.bz2
-SRCMD5=05c7c5b482781e56a56fc19b1fd232c9
+SRC=http://anduin.linuxfromscratch.org/BLFS/other/make-ca.sh-20170514
+SRCFILE=make-ca.sh
+SRCMD5=a21a04d6ff5c4645c748220dbaa9f221
