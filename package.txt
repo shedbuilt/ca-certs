@@ -1,7 +1,6 @@
 NAME=ca-certs
-VERSION=20170514
-REVISION=2
-SRC=http://anduin.linuxfromscratch.org/BLFS/other/make-ca.sh-20170514
-SRCFILE=make-ca.sh
-SRCMD5=a21a04d6ff5c4645c748220dbaa9f221
+VERSION=20180205
+REVISION=3
+SRC=https://github.com/djlucas/make-ca/archive/v0.6/make-ca-0.6.tar.gz
+SRCMD5=851f9e267f343c54db8caa87ec5b3d75
 STRIP=no
