@@ -1,4 +1,4 @@
 #!/bin/bash
 chmod +x make-ca
-cp "${SHED_CONTRIBDIR}/certdata.txt" .
-./make-ca --destdir "$SHED_FAKEROOT"
+cp "${SHED_PKG_CONTRIB_DIR}/certdata.txt" .
+./make-ca --destdir "$SHED_FAKE_ROOT"

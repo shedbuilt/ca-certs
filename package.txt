@@ -1,6 +1,6 @@
 NAME=ca-certs
 VERSION=20180207
-REVISION=4
+REVISION=1
 SRC=https://github.com/djlucas/make-ca/archive/v0.6/make-ca-0.6.tar.gz
 SRCMD5=851f9e267f343c54db8caa87ec5b3d75
 STRIP=no
