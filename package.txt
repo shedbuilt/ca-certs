@@ -1,6 +1,7 @@
 NAME=ca-certs
-VERSION=20180207
+VERSION=0.8
 REVISION=1
-SRC=https://github.com/djlucas/make-ca/archive/v0.6/make-ca-0.6.tar.gz
-SRCMD5=851f9e267f343c54db8caa87ec5b3d75
+SRC=https://github.com/djlucas/make-ca/archive/v0.8/make-ca-0.8.tar.gz
+SRCMD5=1f0176c4fa89274971b2826a97f303f7
+LICENSE=MIT MPL-2.0
 STRIP=no
